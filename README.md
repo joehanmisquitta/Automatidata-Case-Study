@@ -1,1 +1,1 @@
-# Automatidata
+# GDSC Automatidata Case Study
